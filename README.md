@@ -25,7 +25,7 @@ Double File Detector is licensed under the MIT License. See LICENSE file for det
 
 ## Acknowledgments
 
-Double File Detector was developed by Salama Anas. Special thanks to Aithammadi Mounir for their assistance and contributions.
+Double File Detector was developed by Salama Anas & Aithammadi Mounir.
 
 ## Contact
 
