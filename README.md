@@ -5,9 +5,28 @@ Double File Detector is a Java Swing application that allows you to detect dupli
 ## How to Use
 
 1. Open the Double File Detector application.
+
+
+<img width="598" alt="Screenshot 2023-03-26 at 22 24 26" src="https://user-images.githubusercontent.com/94865392/227808648-05e8d340-e098-4e78-a401-e91dfb32aacc.png">
+
+
+
+
+
 2. Click the "Parcourir" button and select the folder that you want to search for duplicates in.
+
+
+<img width="598" alt="Screenshot 2023-03-26 at 22 31 58" src="https://user-images.githubusercontent.com/94865392/227808883-56e10614-3a90-4a87-a386-109dab3c6465.png">
+
+
+
 3. Click the "Detecter" button to start the detection process.
 4. The application will display a list of all duplicate files found in the selected folder.
+
+
+<img width="598" alt="Screenshot 2023-03-26 at 22 27 19" src="https://user-images.githubusercontent.com/94865392/227808884-f9c2ecba-7cd9-425f-9d0e-7a13bb01bb54.png">
+
+
 
 ## User Interface
 
