@@ -11,8 +11,8 @@ Double File Detector is a Java Swing application that allows you to detect dupli
 
 ## User Interface
 
-The application's user interface is designed to be simple and easy to use. The top panel contains a title label and two buttons: "Browse" and "Detect".
-The "Browse" button allows you to select the folder that you want to search for duplicates in. The "Detect" button starts the detection process and displays the results in the text area below.
+The application's user interface is designed to be simple and easy to use. The top panel contains a title label and two buttons: "Parcourir" and "Detecter".
+The "Parcourir" button allows you to select the folder that you want to search for duplicates in. The "Detecter" button starts the detection process and displays the results in the text area below.
 The text area displays a list of all duplicate files found in the selected folder. Each file is listed with its absolute path.
 
 ## Requirements
